@@ -3,7 +3,7 @@
 ---
 
 ### Sobre mim  
-✨ Me interesso por **desenvolvimento web** e **design gráfico**.
+✨ Sou iniciante na área e me interesso por **desenvolvimento web** e **design gráfico**.
 
 ### O que estou aprendendo  
 📚 Atualmente estou estudando **HTML** e **CSS**.
